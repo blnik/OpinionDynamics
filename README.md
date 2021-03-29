@@ -5,7 +5,7 @@ The repository contains all the code that was used to create the plots for the r
 Code available in `HK.ipynb`
 - **Figure 1.1:** some basic sample simulations
 - **Figure 1.4:** comparison: average number of clusters, 2R-conjecture, trace method
-- **Figure 1.5:** average number of clusters on $\varepsilon_\ell, \varepsilon_r$ grid
+- **Figure 1.5:** average number of clusters on $$\varepsilon_\ell, \varepsilon_r$$ grid
 - Hegselmann-Krause model (HK.ipynb): symmetric, fixed asymmetry, opinion dependent asymmetry
 - ODE model (ODE.ipynb): analysis of averaging, symmetric, fixed asymmetry, opinion dependent asymmetry
 - SDE model (SDE.ipynb): symmetric, fixed asymmetry
