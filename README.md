@@ -4,5 +4,5 @@ The repository contains all the code that was used to create the plots for the r
 - ODE model (ODE.ipynb): analysis of averaging, symmetric, fixed asymmetry, opinion dependent asymmetry
 - SDE model (SDE.ipynb): symmetric, fixed asymmetry
 - PDE model (PDE.ipynb): symmetric, fixed asymmetry
-- 
-Some of the code takes a while to run and is therefore commented out. The corresponding results of the code that is commented out can be found in the `savedResults` folder.
+
+Some of the code takes a while to run and is therefore commented out. The corresponding results of the code that is commented out can be found in the `savedResults` directory.
