@@ -33,6 +33,7 @@ Code available in `SDE.ipynb`
 - **Figure 3.10:** average period of mean
 
 ## PDE models
+Code available in `PDE.ipynb`
 - **Figure 4.1:** sample simulations symmetric PDE model
 - **Figure 4.2:** peak position and time derivative at time 0 and `x=0.5` on (e, s)-grid
 - **Figure 4.5:** sample simulations asymmetric PDE model
